@@ -1,11 +1,23 @@
-# c functions practice 
+# C Functions Practice
 
-# Just studying (or trying to) about functions in C
+Just studying (or trying to) some C functions and memory internals.
 
-# Goals:
-#  - Understand some functions a little bit deeper, ' - '
+## Goals
 
+- Understand how some standard C functions work internally
+- Practice implementing basic functionality manually (e.g., custom `malloc`, `free`)
+- Learn more about memory, pointers, and system-level behavior in C
 
-# Just registering for future.
-# Date: 08/05/2025
-# Time: 20:52:00
+## Notes
+
+This repository is just for personal learning and reference. I'm documenting my progress to look back on in the future.
+
+## Started
+
+- Date: 08/05/2025
+- Time: 20:52:00
+
+---
+
+>  Work in progress — no guarantees anything here is correct or safe.
+
